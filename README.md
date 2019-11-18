@@ -1,2 +1,2 @@
-# Quicksort
-Quicksort / 排序算法
+# Sort Algorithm
+Sort Algorithm / 排序算法
