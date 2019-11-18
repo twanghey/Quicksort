@@ -1,2 +1,2 @@
 # Quicksort
-Quicksort for me/ 排序算法
+Quicksort / 排序算法
